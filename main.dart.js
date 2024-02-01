@@ -78063,7 +78063,7 @@ aE(){var s=t.P
 A.qh(A.bi(0,1,0),new A.adw(this),s)
 A.qh(A.bi(0,0,1),new A.adx(this),s)
 this.aT()},
-L(b2){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="images/INT.png",e="Charlevoix",d="Poppins",c="Apellido*",b="Como supiste de nosotros?*",a="Cuentanos de tu inter\xe9s*",a0="Instituto de Belleza Intercontinental",a1="intercontinental95@hotmail.com",a2=u.p,a3=h.ch,a4=A.bz(b2,g,t.w).w.a.a,a5=a4>1050,a6=t.D,a7=A.ame(!1,a3,130,a5?new A.bp(new A.aq(40,0,40,0),A.bQ(A.d0(A.aN(A.a([A.dL(f,g,g,60),A.R(g,g,700),A.aN(A.a([new A.cA(new A.adl(h,b2),g)],a6),B.k,B.o,B.j)],a6),B.k,B.o,B.j),B.a_),g,g),g):A.bQ(A.aN(A.a([A.aN(A.a([A.R(g,g,30),A.dL(f,g,100,g)],a6),B.k,B.o,B.j),A.ar(g,A.aN(A.a([A.b9(g,A.a4("Inicio",g,g,g,g,g,g,A.O(g,g,h.CW,g,g,g,g,g,e,g,g,32,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g,g,g),B.r,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new A.adm(b2),g,g,g,g,g,g)],a6),B.k,B.o,B.j),B.i,g,g,g,g,g,g,g,g,g,150)],a6),B.k,B.br,B.j),g,g),!0,!1),a8=a4*0.17,a9=h.CW,b0=A.a4("Contactanos Ahora..!",g,g,g,g,g,g,A.O(g,g,a9,g,g,g,g,g,e,g,g,50,g,g,B.M,g,g,!0,g,g,g,g,g,g,g,g),g,g,g,g,g),b1=A.a4("Complete los campos o contactenos directamente a intercontinental95@hotmail.com",g,g,g,g,g,g,A.O(g,g,a9,g,g,g,g,g,e,g,g,a5?25:20,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g,g,g)
+L(b2){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="images/INT.png",e="Charlevoix",d="Poppins",c="Apellido*",b="Como supiste de nosotros?*",a="Cuentanos de tu inter\xe9s*",a0="Instituto de Belleza Intercontinental",a1="intercontinental95@hotmail.com",a2=u.p,a3=h.ch,a4=A.bz(b2,g,t.w).w.a.a,a5=a4>1050,a6=t.D,a7=A.ame(!1,a3,130,a5?new A.bp(new A.aq(40,0,40,0),A.bQ(A.d0(A.aN(A.a([A.dL(f,g,g,60),A.R(g,g,700),A.aN(A.a([new A.cA(new A.adl(h,b2),g)],a6),B.k,B.o,B.j)],a6),B.k,B.o,B.j),B.a_),g,g),g):A.bQ(A.aN(A.a([A.aN(A.a([A.R(g,g,30),A.dL(f,g,100,g)],a6),B.k,B.o,B.j),A.ar(g,A.aN(A.a([A.b9(g,A.a4("Inicio",g,g,g,g,g,g,A.O(g,g,h.CW,g,g,g,g,g,e,g,g,32,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g,g,g),B.r,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new A.adm(b2),g,g,g,g,g,g)],a6),B.k,B.o,B.j),B.i,g,g,g,g,g,g,g,g,g,150)],a6),B.k,B.br,B.j),g,g),!0,!1),a8=a4*0.17,a9=h.CW,b0=A.a4("Contactanos Ahora..!",g,g,g,g,g,g,A.O(g,g,a9,g,g,g,g,g,e,g,g,40,g,g,B.M,g,g,!0,g,g,g,g,g,g,g,g),g,g,g,g,g),b1=A.a4("Complete los campos o contactenos directamente a intercontinental95@hotmail.com",g,g,g,g,g,g,A.O(g,g,a9,g,g,g,g,g,e,g,g,a5?25:16,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g,g,g)
 if(a4>800){s=a5?300:200
 r=h.e
 q=A.O(g,g,r,g,g,g,g,g,d,g,g,20,g,g,g,g,g,!0,g,g,g,g,g,g,g,g)
@@ -78422,7 +78422,7 @@ return A.b9(s,A.a4("Nosotros",s,s,s,s,s,s,A.O(s,s,r.e,s,s,s,s,s,"Charlevoix",s,s
 $S:4}
 A.aeA.prototype={
 $0(){var s=A.bi(0,0,1)
-this.a.ay.ea(2850,$.iz(),s)},
+this.a.ay.ea(3600,$.iz(),s)},
 $S:0}
 A.aeY.prototype={
 $1(a){var s=null,r=this.a,q=a?r.w:r.e
@@ -78636,7 +78636,7 @@ A.aeo.prototype={
 $0(){var s,r=this.a
 r.pH()
 s=A.bi(0,0,1)
-r.ay.ea(2850,$.iz(),s)},
+r.ay.ea(3600,$.iz(),s)},
 $S:0}
 A.aep.prototype={
 $0(){var s=A.fQ(new A.fF(null),B.aL,t.z)
