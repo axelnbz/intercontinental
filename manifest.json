@@ -1,11 +1,11 @@
 {
-    "name": "interc",
-    "short_name": "interc",
+    "name": "intercontinental",
+    "short_name": "intercontinental",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "interc",
+    "description": "intercontinental",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
